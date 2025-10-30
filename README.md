@@ -1,3 +1,4 @@
+HEAD
 News Project (minimal full-stack)
 
 Structure:
@@ -20,3 +21,7 @@ Setup frontend:
 Notes:
 - This implementation uses allowed_emails whitelist. It does NOT verify email ownership.
 - For production, add input sanitization, rate-limiting, HTTPS, and proper error handling.
+
+# news_project
+News Project est une application web construite avec React, Node.js et MySQL. Elle affiche des actualités par catégorie, permet de voir les détails des articles et d’ajouter des commentaires via une interface moderne et interactive.
+ db9f46046d45885133e1dbf99a28e532432a6f2a
